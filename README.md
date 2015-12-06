@@ -1,0 +1,2 @@
+# gridlex
+Template for Serendipity
